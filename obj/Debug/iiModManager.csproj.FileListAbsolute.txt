@@ -1,0 +1,11 @@
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\bin\Debug\iiModManager.exe.config
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\bin\Debug\iiModManager.exe
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\bin\Debug\iiModManager.pdb
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.csproj.AssemblyReference.cache
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.Properties.Resources.resources
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.csproj.GenerateResource.cache
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.csproj.CoreCompileInputs.cache
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.exe
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.pdb
+C:\Users\PeakB\source\repos\iiModManager\iiModManager\obj\Debug\iiModManager.iiModManager.resources
